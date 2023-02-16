@@ -42,7 +42,7 @@ SELECT *
 FROM Movies
 WHERE Id BETWEEN 1 AND 5;
 
-             -- CH3 - Queries with constraints (Pt. 2)
+             -- CH3 - Queries with constraints (Pt.2)
 
 -- Find all the Toy Story movies
 SELECT *
